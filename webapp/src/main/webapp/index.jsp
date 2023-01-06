@@ -20,7 +20,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Happy NEW YEAR & Learning </h1>
+   <h1> ALL THE BEST & Learning </h1>
 
   
 </form>
