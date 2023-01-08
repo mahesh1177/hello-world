@@ -20,7 +20,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> INTRASIGEN </h1>
+   <h1> INTRASIGENT </h1>
 
   
 </form>
